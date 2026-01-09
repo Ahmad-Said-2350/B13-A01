@@ -270,6 +270,7 @@ background-color: #00CEd1;
 
 .s1 {
     padding: 0 120px 120px 120px ;
+    background-color: #FFFFFF;
 }
 
 .s1 .s1hd h1{
@@ -290,11 +291,15 @@ background-color: #00CEd1;
     justify-content: center;
     margin-top: 44px;
     gap: 24px;
-    background-color: #FFFFFF;
     padding: 20px 0;
     
     
 }
+
+/* .card-all:hover{ */
+    /* background-color: #00CEd1; */
+    /* color: #000000;     */
+/* } */
 .s1 .card-all .c100 img{
     color: #FFFFFF;
     background-color: #f95555;
@@ -381,6 +386,13 @@ footer .copy hr{
     margin-left: 120px;
     margin-right: 120px;
     margin-bottom: 30px;
-    color: #E5E7EB;
-    opacity: 0,3;
+    background-color:#87afff ;
+}
+
+
+.c100, .c2, .c3, .c4{
+    border: 1px solid #F7F6F2;
+    border-radius: 10px;
+    text-align: center;
+    
 }
