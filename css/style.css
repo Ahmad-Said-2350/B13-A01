@@ -225,11 +225,13 @@ background-color: #00CEd1;
 }
 
 .s3{
-    padding-left :120px ;
-    padding-right: 120px;
+    margin-left :120px ;
+    margin-right: 120px;
+    margin-bottom: 120px;
     padding-bottom: 120px;
     padding-top: 2px;
     background-color: #F7F6F2;
+    border-radius: 10px;
     
 }
 .s3 .con-3{
@@ -332,7 +334,7 @@ color: #FFFFFF;
 
 footer{
     background: linear-gradient(#002147);
-    /* background-color: #f95555; */
+    
 }
 
 .fother-contener{
@@ -349,9 +351,8 @@ footer{
     padding-bottom:158px ;
 }
 
-.fother-contener .icons{
-    padding-right: 120px;
-    
+.fother-contener .icons {
+    margin-right: 227px;
 }
 
 .fother-contener .icons .i{
@@ -363,3 +364,23 @@ footer{
 }
 
 
+
+
+footer .copy{
+    color: #FFFFFF;
+    text-align: center;
+    justify-content: center;
+    margin-top: 30px;
+    font-size: 24px;
+    align-items: center;
+    padding-bottom: 30px;
+    
+    
+}
+footer .copy hr{
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 30px;
+    color: #E5E7EB;
+    opacity: 0,3;
+}
