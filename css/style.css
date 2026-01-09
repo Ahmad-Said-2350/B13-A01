@@ -420,14 +420,16 @@ footer{
 
 .fother-contener .icons {
     margin-right: 227px;
+    
 }
 
 .fother-contener .icons .i{
     background-color: #FFFFFF;
     width:20px;
     height:19px ;
-    border:#F7F6F2 3px solid;
+    border:#F7F6F2 4px solid;
     border-radius: 50%;
+    margin: 0 auto;
 }
 
 
